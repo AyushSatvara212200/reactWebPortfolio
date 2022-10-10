@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  background-image: url("./Images/motivation.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 0px;
+}

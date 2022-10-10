@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+#navbar {
+  width: 100%;
+  height: 90px;
+  position: fixed;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  filter: none;
+  backdrop-filter: blur(4px);
+}
+.b-name-1 {
+  width: 30%;
+  height: 100%;
+  margin: 0px 10px 0px 10px;
+  cursor: pointer;
+}
+.b-logo {
+  width: 30%;
+  height: 100%;
+}
+.b-name-2 {
+  width: 20%;
+  height: 100%;
+  margin: 0px 10px 0px 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.b-name-2 img {
+  cursor: pointer;
+}
+#insta-icon,
+#linkedin-icon {
+  width: 60px;
+  height: 50px;
+}
+#home-icon {
+  width: 60px;
+  height: 60px;
+}
+#about-icon {
+  width: 100px;
+  height: 70px;
+}
