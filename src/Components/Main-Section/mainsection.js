@@ -21,7 +21,7 @@ const mainsection = () => {
         <div className="main">
           <p className='text'> Hi ! I'm AYUSH SATVARA</p>
           <p className='text-2'> A Front End developer <img id='react-icon' src={reactIcon} alt="" /></p>
-          <p className='text-1'>A portfolio website made with react , practising UI / UX . Very passionate about the coding and javascript libraries... <br />Making websites and web apps , works as an intern in a company .</p>
+          <p className='text-1'>A portfolio website made with react , practising UI / UX . Very passionate about the coding and javascript libraries... <br />Making websites and web apps , worked as an intern in a company .</p>
           <p className='text-3'>Want to know more !!</p>
           <AnchorLink href='#aboutme-div' id='scroll-div'>
             <p className='text-scroll'>SCROLL DOWN</p>
