@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactWebPortfolio/static/css/main.bb8c7479.css",
+    "main.js": "/reactWebPortfolio/static/js/main.f37deda7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/reactWebPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/coding.png": "/reactWebPortfolio/static/media/coding.02e928c9ec5c03c30c0c.png",
+    "static/media/AS_logo.png": "/reactWebPortfolio/static/media/AS_logo.7ebec3fa1902c2c2a504.png",
+    "static/media/motivation.jpeg": "/reactWebPortfolio/static/media/motivation.4bfbe7e1b3d40d4f26db.jpeg",
+    "static/media/React-icon.png": "/reactWebPortfolio/static/media/React-icon.73dbb5bcec516da82694.png",
+    "static/media/home-1.png": "/reactWebPortfolio/static/media/home-1.163774545de6c47b83da.png",
+    "static/media/insta-icon-1.png": "/reactWebPortfolio/static/media/insta-icon-1.e66dae5f092e2bcc381f.png",
+    "static/media/linkedin-icon-1.png": "/reactWebPortfolio/static/media/linkedin-icon-1.5304868e11f58631dbec.png",
+    "static/media/about-icon-2.png": "/reactWebPortfolio/static/media/about-icon-2.a33854dc75d30a0ee062.png",
+    "index.html": "/reactWebPortfolio/index.html",
+    "main.bb8c7479.css.map": "/reactWebPortfolio/static/css/main.bb8c7479.css.map",
+    "main.f37deda7.js.map": "/reactWebPortfolio/static/js/main.f37deda7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/reactWebPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb8c7479.css",
+    "static/js/main.f37deda7.js"
+  ]
+}
